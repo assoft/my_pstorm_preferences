@@ -1,7 +1,6 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="39c981f0-fae7-4007-a26e-68322bc9f45c" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.0/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="b8d98d7e-3006-43fd-91a8-f0869e50f052" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.13/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
